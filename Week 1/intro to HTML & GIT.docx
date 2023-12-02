@@ -1,0 +1,115 @@
+HTML - Basics of HTML
+CSS - Positions, display: flex and grid, z-index, animations, inline-block, block, 
+Modal, menu - horizontal, vertical, z-index
+Tailwind, Preprocessors -SASS, Less, Sass
+Javascript - <script>, async, defer - common
+DOM manipulation
+getElementById
+Creation of 
+Primitive, non-primitive
+Number.  Objects
+String	Arrays
+Boolean	Function
+		Classes
+Let, var, const - scope
+Hoisting
+Closures
+Function currying
+Classes
+Prototypes/ Prototypical Inheritance
+Types of function - IIFE- Immediately invoked function execution, arrow function, pure function, hof - higher order function, factory functions
+This keyword - Implicit binding, default binding , explicit binding
+Window object - browser vs server
+Inheritance
+Function - call, apply and bind, I
+Async programming
+Callback
+Promises
+Async/await
+API calling
+React - Component
+Class based component   - lifecycle methods
+Call APIs
+Routing in class
+Redux setup
+Context setup
+HOC - Higher order components
+React.children
+Functional component
+Hooks - UseState, UseEffect, 
+Component
+Frontend application 
+Node.js
+fs
+Path
+Os
+http 
+Express.js
+MVC -> Database connection (Mongodb -> install mongodb, mongodb cloud)
+Project
+Twitter clone
+E-commerce - Payment gateway (Razorpay), Stripe
+Authentication
+Typescript
+Graphql
+Next.js
+DSA
+Time complexity analysis - Abdul Bari - Worst - O(n)
+Space complexity analysis - O
+Sorting - Bubble sort, Insertion sort, Merge sort, quick sort 
+Searching - Linear search, Binary search - sorted, [1,2,4,4,4,4,7] , 4 (2,5) - Swiggy
+	[4,5,6,1,2,3]
+Arrays - Two pointers technique, 3 sum, 4 sum
+[1,2,3,4,5] t = 7
+Sliding window problem
+Prefix sum
+Hashing - O(1)
+Stack - LIFO - rain water trapping, histogram, next greater element, postfix to infix, balanced parenthesis
+Queues - FIFO - Graphs,
+Dequeue
+Circular queue
+Linked list - reverse linked list, reverse linked list in k size, finding cycle in a linked list
+Doubly linked list   prev <— data-> next -> convert a doubly linked list to a tree
+Heap -minheap, maxheap
+Priority queue - 
+Trees - Inorder, preorder, postorder, level order
+Binary
+Full binary tree
+Complete binary tree
+BST
+Red black tree
+AVL trees
+B trees , Nary tree
+Segment tree - L to R
+Graphs - Adjancency matrix and adjacency list
+DFS and BFS
+Strongly connected components
+Topological sort
+Indegree, out degree, vertices, edges,
+Djikstra
+Bellman ford algorithm 
+Maths
+Number theory
+P&C
+
+
+
+1. git clone <repository_name> cloning the repository
+2. git checkout -b <branch_name> creating a new branch
+3. git status - what all changes have been done locally to the project folder.
+4. git add <file_name> - It will add only file, the file_name which you are giving
+5. git add . - It will add all file that are added for stage.
+6. git commit -m "commit-msg" - This will commit staged changes from your local branch.
+7. git commit -am "commit-msg" -Add + commit.
+8. git checkout <branch_name> - will take you to the branch
+9. git push origin <branch_name> - It pushes the changes
+10. git pull origin <branch_name> - It pulls changes from the branch
+11. git fetch origin  - fetches everything tags/branches and refereneces from remote
+12. git log - It will show you all the commit history that we have done.
+13. git cmd_type --help.
+14. git stash - stores the changes done locally
+15. git stash apply - applies the changes back done locally.
+14. git merge 
+15. git rebase.
+
+
